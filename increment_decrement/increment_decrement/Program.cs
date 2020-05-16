@@ -12,11 +12,11 @@ namespace increment_decrement
         {
             int a = 0;
 
-            a++;
+            a++; // a + 1
 
             Console.WriteLine(a);
 
-            a--;
+            a--; // a - 1  
 
             Console.WriteLine(a);
         }
