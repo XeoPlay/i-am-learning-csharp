@@ -1,0 +1,7 @@
+C:\Users\Гриша\OneDrive\с#\operators_of_comparison\operators_of_comparison\bin\Debug\operators_of_comparison.exe.config
+C:\Users\Гриша\OneDrive\с#\operators_of_comparison\operators_of_comparison\bin\Debug\operators_of_comparison.exe
+C:\Users\Гриша\OneDrive\с#\operators_of_comparison\operators_of_comparison\bin\Debug\operators_of_comparison.pdb
+C:\Users\Гриша\OneDrive\с#\operators_of_comparison\operators_of_comparison\obj\Debug\operators_of_comparison.csprojAssemblyReference.cache
+C:\Users\Гриша\OneDrive\с#\operators_of_comparison\operators_of_comparison\obj\Debug\operators_of_comparison.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\operators_of_comparison\operators_of_comparison\obj\Debug\operators_of_comparison.exe
+C:\Users\Гриша\OneDrive\с#\operators_of_comparison\operators_of_comparison\obj\Debug\operators_of_comparison.pdb
