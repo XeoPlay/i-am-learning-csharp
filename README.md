@@ -4,4 +4,4 @@ projects every time. i can just go here.
 
 thats about it
 
-ignore "ConsoleApp1" that was a mistake
+ignore "tutorialtest" that was a mistake
