@@ -3,3 +3,5 @@ i'm uploading everything i learn about c-sharp, so i dont have to find the folde
 projects every time. i can just go here.
 
 thats about it
+
+ignore "ConsoleApp1" that was a mistake
