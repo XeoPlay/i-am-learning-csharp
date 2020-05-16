@@ -1,0 +1,6 @@
+C:\Users\Гриша\OneDrive\с#\homework\fake_value_converter\fake_value_converter\bin\Debug\fake_value_converter.exe.config
+C:\Users\Гриша\OneDrive\с#\homework\fake_value_converter\fake_value_converter\bin\Debug\fake_value_converter.exe
+C:\Users\Гриша\OneDrive\с#\homework\fake_value_converter\fake_value_converter\bin\Debug\fake_value_converter.pdb
+C:\Users\Гриша\OneDrive\с#\homework\fake_value_converter\fake_value_converter\obj\Debug\fake_value_converter.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\homework\fake_value_converter\fake_value_converter\obj\Debug\fake_value_converter.exe
+C:\Users\Гриша\OneDrive\с#\homework\fake_value_converter\fake_value_converter\obj\Debug\fake_value_converter.pdb

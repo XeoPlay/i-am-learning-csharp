@@ -1,0 +1,7 @@
+C:\Users\Гриша\OneDrive\с#\должно_работать\должно_работать\bin\Debug\должно_работать.exe.config
+C:\Users\Гриша\OneDrive\с#\должно_работать\должно_работать\bin\Debug\должно_работать.exe
+C:\Users\Гриша\OneDrive\с#\должно_работать\должно_работать\bin\Debug\должно_работать.pdb
+C:\Users\Гриша\OneDrive\с#\должно_работать\должно_работать\obj\Debug\должно_работать.csprojAssemblyReference.cache
+C:\Users\Гриша\OneDrive\с#\должно_работать\должно_работать\obj\Debug\должно_работать.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\должно_работать\должно_работать\obj\Debug\должно_работать.exe
+C:\Users\Гриша\OneDrive\с#\должно_работать\должно_работать\obj\Debug\должно_работать.pdb

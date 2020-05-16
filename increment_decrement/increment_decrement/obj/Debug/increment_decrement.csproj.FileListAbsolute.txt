@@ -1,0 +1,6 @@
+C:\Users\Гриша\OneDrive\с#\increment_decrement\increment_decrement\bin\Debug\increment_decrement.exe.config
+C:\Users\Гриша\OneDrive\с#\increment_decrement\increment_decrement\bin\Debug\increment_decrement.exe
+C:\Users\Гриша\OneDrive\с#\increment_decrement\increment_decrement\bin\Debug\increment_decrement.pdb
+C:\Users\Гриша\OneDrive\с#\increment_decrement\increment_decrement\obj\Debug\increment_decrement.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\increment_decrement\increment_decrement\obj\Debug\increment_decrement.exe
+C:\Users\Гриша\OneDrive\с#\increment_decrement\increment_decrement\obj\Debug\increment_decrement.pdb

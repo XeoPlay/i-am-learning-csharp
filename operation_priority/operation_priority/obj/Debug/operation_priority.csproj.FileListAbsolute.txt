@@ -1,0 +1,6 @@
+C:\Users\Гриша\OneDrive\с#\operation_priority\operation_priority\bin\Debug\operation_priority.exe.config
+C:\Users\Гриша\OneDrive\с#\operation_priority\operation_priority\bin\Debug\operation_priority.exe
+C:\Users\Гриша\OneDrive\с#\operation_priority\operation_priority\bin\Debug\operation_priority.pdb
+C:\Users\Гриша\OneDrive\с#\operation_priority\operation_priority\obj\Debug\operation_priority.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\operation_priority\operation_priority\obj\Debug\operation_priority.exe
+C:\Users\Гриша\OneDrive\с#\operation_priority\operation_priority\obj\Debug\operation_priority.pdb

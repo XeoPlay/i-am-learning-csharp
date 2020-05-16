@@ -1,0 +1,6 @@
+C:\Users\Гриша\OneDrive\с#\parse_tryparse\parse_tryparse\bin\Debug\parse_tryparse.exe.config
+C:\Users\Гриша\OneDrive\с#\parse_tryparse\parse_tryparse\bin\Debug\parse_tryparse.exe
+C:\Users\Гриша\OneDrive\с#\parse_tryparse\parse_tryparse\bin\Debug\parse_tryparse.pdb
+C:\Users\Гриша\OneDrive\с#\parse_tryparse\parse_tryparse\obj\Debug\parse_tryparse.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\parse_tryparse\parse_tryparse\obj\Debug\parse_tryparse.exe
+C:\Users\Гриша\OneDrive\с#\parse_tryparse\parse_tryparse\obj\Debug\parse_tryparse.pdb

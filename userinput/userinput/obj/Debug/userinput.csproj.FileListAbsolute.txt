@@ -1,0 +1,6 @@
+C:\Users\Гриша\OneDrive\с#\userinput\userinput\bin\Debug\userinput.exe.config
+C:\Users\Гриша\OneDrive\с#\userinput\userinput\bin\Debug\userinput.exe
+C:\Users\Гриша\OneDrive\с#\userinput\userinput\bin\Debug\userinput.pdb
+C:\Users\Гриша\OneDrive\с#\userinput\userinput\obj\Debug\userinput.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\userinput\userinput\obj\Debug\userinput.exe
+C:\Users\Гриша\OneDrive\с#\userinput\userinput\obj\Debug\userinput.pdb

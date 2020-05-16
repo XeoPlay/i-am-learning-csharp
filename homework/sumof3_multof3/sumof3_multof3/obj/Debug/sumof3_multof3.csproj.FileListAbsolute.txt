@@ -1,0 +1,6 @@
+C:\Users\Гриша\OneDrive\с#\homework\sumof3_multof3\sumof3_multof3\bin\Debug\sumof3_multof3.exe.config
+C:\Users\Гриша\OneDrive\с#\homework\sumof3_multof3\sumof3_multof3\bin\Debug\sumof3_multof3.exe
+C:\Users\Гриша\OneDrive\с#\homework\sumof3_multof3\sumof3_multof3\bin\Debug\sumof3_multof3.pdb
+C:\Users\Гриша\OneDrive\с#\homework\sumof3_multof3\sumof3_multof3\obj\Debug\sumof3_multof3.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\homework\sumof3_multof3\sumof3_multof3\obj\Debug\sumof3_multof3.exe
+C:\Users\Гриша\OneDrive\с#\homework\sumof3_multof3\sumof3_multof3\obj\Debug\sumof3_multof3.pdb

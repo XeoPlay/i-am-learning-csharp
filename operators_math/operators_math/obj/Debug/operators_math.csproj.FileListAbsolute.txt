@@ -1,0 +1,6 @@
+C:\Users\Гриша\OneDrive\с#\operators_math\operators_math\bin\Debug\operators_math.exe.config
+C:\Users\Гриша\OneDrive\с#\operators_math\operators_math\bin\Debug\operators_math.exe
+C:\Users\Гриша\OneDrive\с#\operators_math\operators_math\bin\Debug\operators_math.pdb
+C:\Users\Гриша\OneDrive\с#\operators_math\operators_math\obj\Debug\operators_math.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\operators_math\operators_math\obj\Debug\operators_math.exe
+C:\Users\Гриша\OneDrive\с#\operators_math\operators_math\obj\Debug\operators_math.pdb

@@ -1,0 +1,7 @@
+C:\Users\Гриша\OneDrive\с#\homework\mid\mid\bin\Debug\mid.exe.config
+C:\Users\Гриша\OneDrive\с#\homework\mid\mid\bin\Debug\mid.exe
+C:\Users\Гриша\OneDrive\с#\homework\mid\mid\bin\Debug\mid.pdb
+C:\Users\Гриша\OneDrive\с#\homework\mid\mid\obj\Debug\mid.csproj.CoreCompileInputs.cache
+C:\Users\Гриша\OneDrive\с#\homework\mid\mid\obj\Debug\mid.exe
+C:\Users\Гриша\OneDrive\с#\homework\mid\mid\obj\Debug\mid.pdb
+C:\Users\Гриша\OneDrive\с#\homework\mid\mid\obj\Debug\mid.csprojAssemblyReference.cache
