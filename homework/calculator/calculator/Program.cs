@@ -33,6 +33,9 @@ namespace calculator
                 case "/":
                     Console.WriteLine("Result is: " + (firstNum / secondNum));
                     break;
+                default:
+                    Console.WriteLine("Wrong symbol(");
+                    break;
             }
         }
     }
