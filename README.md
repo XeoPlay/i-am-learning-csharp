@@ -10,3 +10,5 @@ ignore "tutorialtest" that was a mistake
 
 there's some mistakes with the commits because visual studio had some temporary files that
 i didn't notice.
+
+the programs themselves are usually at [foldername]/[foldername]/Program.cs
